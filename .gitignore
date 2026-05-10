@@ -1,0 +1,19 @@
+# Diretórios gerados pelo Mix/Elixir
+/_build/
+/deps/
+/doc/
+/.fetch
+
+# Arquivos de crash do Erlang
+erl_crash.dump
+*.ez
+*.beam
+
+# Arquivo de persistência do bot (não versionar dados de usuários)
+notes.json
+
+# Variáveis de ambiente
+.env
+
+# Arquivos de sistema macOS
+.DS_Store
