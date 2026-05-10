@@ -59,7 +59,7 @@ config/
 
 - **wttr.in** — clima (sem chave)
 - **PokéAPI** — dados de Pokémon (sem chave)
-- **frankfurter.app** — conversão de moedas (sem chave)
+- **fawazahmed0/currency-api** (via jsDelivr CDN) — conversão de moedas (sem chave)
 - **GitHub REST API** — dados de repositórios públicos (sem chave)
 - **Nominatim (OpenStreetMap)** — geolocalização (sem chave)
 - **Wikipedia REST API** — curiosidades geográficas (sem chave)
